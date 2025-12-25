@@ -1,9 +1,9 @@
-1.py -> EXP NO: 1A HISTOGRAM EQUALIZATION
-2.py -> EXP NO: 2 BUILD A NEURAL NETWORK 
-3.py -> EXP NO: 3 BUILD A DEEP LEARNING MODEL TO CLASSIFY A CAT AND DOG USING CNN 
-4.py -> EXP NO: 4 BUILD A DEEP LEARNING MODEL TO CLASSIFY A CAT AND DOG USING RNN
-5.py -> EXP NO: 5 BUILD A DEEP LEARNING MODEL TO PREDICT STOCK PRICES USING RNN
-6.py -> EXP NO: 6 TRAIN A DEEP LEARNING MODEL TO CLASSIFY A GIVEN IMAGE USING PRE TRAINED MODEL
-7.py -> EXP NO: 7 OBJECT DETECTION USING CONVOLUTION NEURAL NETWORK
-8.py -> EXP NO: 8 RECOMMENDATION SYSTEMS FROM SALES DATA USING DEEP LEARNING
-9.py -> EXP NO: 9 PERFORM SENTIMENT ANALYSIS IN NETWORK GRAPH USING RNN
+1.py -> Tokenize and tag some text 
+2.py -> Implementation of resume screening with Python  
+3.py -> Development of sentiment analysis with Python 
+4.py -> Develop keyword extraction with Python 
+5.py -> Development of NLP for other languages
+6.py -> Implement NLP for WhatsApp chat 
+7.py -> Chatbot Implementation 
+8.py -> Implement next word prediction model 
+9.py -> College Enquiry Chatbot 
